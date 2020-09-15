@@ -9,6 +9,7 @@ p {
     text-align: justify;
     text-indent: 50px;
 }
+/* Formatação de imagens com legendas */
 
 figure.foto-legenda {
     position: relative;
