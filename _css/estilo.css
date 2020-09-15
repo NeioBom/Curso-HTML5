@@ -9,3 +9,13 @@ p {
     text-align: justify;
     text-indent: 50px;
 }
+
+figure.foto-legenda {
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black;
+}
+
+figure.foto-legenda img {
+    width: 100%;
+    height: 100%;
+}
